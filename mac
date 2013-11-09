@@ -55,6 +55,7 @@ fancy_echo "Installing Redis, a good key-value database ..."
   brew install redis
 
 fancy_echo "Installing The Silver Searcher (better than ack or grep) to search the contents of files ..."
+  brew install mysql
   brew install the_silver_searcher
 
 fancy_echo "Installing vim from Homebrew to get the latest version ..."
